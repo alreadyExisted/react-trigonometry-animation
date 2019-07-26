@@ -1,0 +1,14 @@
+.title {
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.chart {
+  display: block;
+  border: 1px solid #ddd;
+}
+
+.chart:not(:last-child) {
+  margin-bottom: 50px;
+}

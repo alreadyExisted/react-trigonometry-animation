@@ -1,0 +1,25 @@
+.circle {
+  fill: transparent;
+  stroke: blue;
+  stroke-width: 2;
+}
+
+.circleInternal {
+  composes: circle;
+  stroke: #000;
+}
+
+.trace {
+  fill: transparent;
+  stroke: red;
+  stroke-width: 2;
+}
+
+.line {
+  stroke: #000;
+  stroke-width: 2;
+}
+
+.dotRed {
+  fill: red;
+}

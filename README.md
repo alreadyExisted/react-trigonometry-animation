@@ -1,4 +1,6 @@
-# Deltoid and Astroid on D3
+# React Trigonometry Animation
+
+Trigonometry animation on ReactJS and SVG
 
 ## Deltoid
 
@@ -8,4 +10,4 @@
 
 ![Astroid](https://x-engineer.org/wp-content/uploads/2018/01/Astroid-animation.gif?41ab8b&41ab8b)
 
-[Demo](https://codesandbox.io/embed/d3-deltoid-android-c28nr?fontsize=14)
+[Demo](https://codesandbox.io/embed/react-trigonometry-animation-m0q3u?fontsize=14)
